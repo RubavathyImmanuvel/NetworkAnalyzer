@@ -16,7 +16,7 @@ Network Analyzer is a WPF application that provides an interface for monitoring 
 1. Clone the repository: git clone https://github.com/RubavathyImmanuvel/NetworkAnalyzer.git
 2. Open the solution file (`NetworkAnalyzer.sln`) in Visual Studio.
 3. Build the solution to restore the necessary packages.
-4. Run the application. You should see a window displaying the list of Windows services on your machine.
+4. Run the application.
 
 ### Usage
 - **View TCP Connections**: The application will display a list of active TCP connections in the DataGrid.
